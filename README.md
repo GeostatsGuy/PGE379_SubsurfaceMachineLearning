@@ -58,9 +58,27 @@ You will gain:
 5.	Uncertainty Modeling: methods to quantify, integrate and summarize uncertainty 
 6.	Communicating Model Results: maximizing the impact of your modeling work by communicating modeling results to inform decision making
 7.	Practical Workflows: a wide variety of practical workflows that you will build from to kick-start your successful career in the subsurface digital revolution.
-ASSIGNMENT POLICY:
 
+#### Comments
 
+This class should be useful to those interested to learn about machine learning and how to apply it to the subsurface. 
 
+I have other resources available online, check out my other [Python demonstrations](https://github.com/GeostatsGuy/PythonNumericalDemos) and Python Geostatistics package [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy). 
+  
+#### Want to Work Together?
 
+I hope that this is helpful to those that want to learn more about geostatistics, subsurface modeling, data analytics and machine learning. 
 
+Want to invite me to visit your company for training, mentoring, project review, workflow design and consulting, I'd be happy to drop by and work with you!
+
+Interested in partnering, supporting my graduate student research or my Subsurface Data Analytics and Machine Learning consortium (co-PIs including Profs. Foster, Torres-Verdin and van Oort)? My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
+
+I can be reached at mpyrcz@austin.utexas.edu.
+
+I'm always happy to discuss,
+
+*Michael*
+
+Michael Pyrcz, Ph.D., P.Eng. Associate Professor The Hildebrand Department of Petroleum and Geosystems Engineering, Bureau of Economic Geology, The Jackson School of Geosciences, The University of Texas at Austin
+
+#### More Resources Available at: [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
