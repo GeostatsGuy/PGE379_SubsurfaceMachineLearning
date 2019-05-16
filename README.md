@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
+
 # PGE379_SubsurfaceMachineLearning
 ## Course in subsurface machine learning.
 
